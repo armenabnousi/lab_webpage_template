@@ -1,0 +1,16 @@
+{% extends "minglab/base.html" %}
+{% load static %}
+{% block content %}
+	<ol>
+		{% for paper in papers %}
+			<li>
+				<b>{{ paper.title }}.</b></br>
+				{{ paper.authors }}.&nbsp;({{ paper.date }}).&nbsp;{{ paper.journal }}.</br>
+				{% ifnotequal paper.description "$$$" %}
+					{{ paper.description }}</br>
+				{% endifnotequal %}
+			</li>
+		</br>
+		{% endfor %}
+	</ol>
+{% endblock %}
