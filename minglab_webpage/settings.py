@@ -25,7 +25,7 @@ SECRET_KEY = '02m*#du&hmcitre9xm@evgq_rg=b9#lxv=gvc%d^u5l86p1g-m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['minglab.herokuapp.com']
+ALLOWED_HOSTS = ['minglab.herokuapp.com', 'localhost']
 
 
 # Application definition
