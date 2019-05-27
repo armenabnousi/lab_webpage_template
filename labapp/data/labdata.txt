@@ -1,0 +1,17 @@
+labname	Armen Abnousi Lab
+labname2	"Data and Computer Sciences, Bioinformatics"
+institute	WSU
+department	Computer Science Department
+page_header	ArmenLab
+researcher_first_name	Armen
+researcher_last_name	Abnousi
+google_scholar	https://scholar.google.com/citations?user=hdHogeMAAAAJ&hl=en&oi=ao
+linkedin	https://www.linkedin.com/in/armen.abnousi
+room	ETRL206
+street_address	Euclid Ave
+city	Pullman
+state	WA
+zipcode	99163
+email	a.abnousi@gmail.com
+phone	8888888888
+fax	8888888889

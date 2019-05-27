@@ -1,0 +1,28 @@
+{% extends "labapp/base.html" %}
+{% block content %}
+<div class="container m-5">
+<b>E-mail:</b>
+I'm available for inquiries through e-mail: <a href="mailto:{{labdata.email}}">{{labdata.email}}</a>.
+</div>
+<div class="container m-5">
+<b>Address:</b>
+<div class="row">
+	<div class="col-m-4 m-2">
+		<div> 
+			{{labdata.department}}</br>
+			{{labdata.institute}}</br>
+			{{labdata.room}}</br>
+			{{labdata.street_address}}</br>
+			{{labdata.city}},<nbsp>{{labdata.state}}<nbsp>{{labdata.zipcode}}</br>
+		</div>
+		<!--<div>
+			{{labapp.gmap}}
+		</div>-->
+	</div>
+	<div class="col-m-4 m-2">
+		<b>Tel:</b>&nbsp;{{labdata.phone}}</br>
+		<b>Fax:</b>&nbsp;{{labdata.fax}}</br>
+	</div>
+</div></br>
+</div>
+{% endblock %}

@@ -1,1 +1,1 @@
-web: gunicorn minglab_webpage.wsgi
+web: gunicorn lab_webpage.wsgi

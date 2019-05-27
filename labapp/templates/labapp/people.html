@@ -1,0 +1,19 @@
+{% extends "labapp/base.html" %}
+{% load static %}
+{% block content %}
+{% for person in people %}
+<div class="container align-content-center">
+	{% ifnotequal person.webpage "$$$" %}
+	<a href="{{ person.webpage }}">
+	{% else %}
+	<a href="{% url 'labapp-home' %}">
+	{% endifnotequal %}
+	<div class="card col-sm-5">
+		<div class="card-header">{{ person.name }}</div>
+		<div class="card-body"><img src="{% static 'images/' %}{{ person.picture_filename }}" class="img-responsive" width="80%"/></div>
+		<div class="crad-footer">{{ person.title }}</div>
+	</div>
+	</a></br>
+</div>
+{% endfor %}
+{% endblock %}

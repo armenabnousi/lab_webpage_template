@@ -1,0 +1,7 @@
+software_name	webpage	description
+MAPS	https://github.com/ijuric/MAPS	Model-based analysis of long-range chromatin interactions from PLAC-Seq and HiChIP experiments
+Hugin	https://yunliweb.its.unc.edu/Hugin/	"(Hi-C Unifying Genomic INterrogator): a genome browser of the integrative analysis of Hi-C data, SNP data and epigenetic data from 7 human cell lines and 14 human tissues"
+coreClust	https://github.com/armenabnousi/minhash_clustering	Clustering of protein conserved regions using minHashing
+NADDA	http://bitbucket.org/armenabnousi/nadda	Non-Alignment Domain Detection Algorithm for protein sequences
+Sequence Alignment	https://github.com/armenabnousi/sequence_alignment	Implementation of Needleman-Wunsh and Smith-Waterman algorithms for local and global sequence alignemnt
+UnionFind	https://github.com/armenabnousi/union_find	Implementation of Union-Find algorithm for connected component computation of graphs

@@ -1,4 +1,0 @@
-name	title	picture_filename	webpage
-Ming Hu	Biostatistics (PhD)	profile_pic.jpg	
-Ivan Juric	Evolutionary Genetics (PhD)	ivan.jpg	www.github.com/ijuric
-Armen Abnousi	Computer Science (PhD)	armen.png	www.github.com/armen.abnousi

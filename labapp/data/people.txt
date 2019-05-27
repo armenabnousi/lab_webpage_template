@@ -1,0 +1,4 @@
+name	title	picture_filename	webpage
+Armen Abnousi	Computer Science (PhD)	profile_pic.jpg	
+Researcher1 lastname	title1	fname1lname1.jpg	www.github.com/armen.abnousi
+Researcher2 lastname	title2	fname2lname2.jpg	www.github.com/armen.abnousi

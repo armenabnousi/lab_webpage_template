@@ -1,0 +1,6 @@
+authors	title	journal	date	description
+"Yamada, Tomoko; Yang, Yue; Valnegri, Pamela; Juric, Ivan; Abnousi, Armen; Markwalter, Kelly H; Guthrie, Arden N; Godec, Abigail; Oldenborg, Anna; Hu, Ming; Holy, Timothy E; Bonni, Azad"	Sensory experience remodels genome architecture in neural circuit to drive motor learning	Nature	5/8/19	
+"Juric, Ivan; Yu, Miao; Abnousi, Armen; Raviram, Ramya; Fang, Rongxin; Zhao, Yuan; Zhang, Yanxiao; Qiu, Yunjiang; Yang, Yuchen; Li, Yun; Ren, Bing; Hu, Ming"	MAPS: model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments	PLoS computational biology	4/15/19	
+"Abnousi, Armen; Broschat, Shira L; Kalyanaraman, Ananth"	Alignment-free clustering of large data sets of unannotated protein conserved regions using minhashing	BMC bioinformatics	2018/12	
+"Abnousi, Armen; Broschat, Shira L; Kalyanaraman, Ananth"	A fast alignment-free approach for de novo detection of protein conserved regions	PloS one	8/23/16	
+"Abnousi, Armen; Broschat, Shira L; Kalyanaraman, Ananth"	An alignment-free approach to cluster proteins using frequency of conserved k-mers	"Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics"	9/9/15	

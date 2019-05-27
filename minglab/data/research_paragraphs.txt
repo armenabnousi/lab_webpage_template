@@ -1,1 +1,0 @@
-"My research interests lie in Bayesian analysis in bioinformatics and statistical genetics, with particular focus on analyzing the next generation sequencing data. My most recent work focuses on genome-wide mapping and analysis of chromosome architecture, in collaboration with Dr. Bing Ren's lab and Dr. Yun Li's lab."
