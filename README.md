@@ -1,5 +1,5 @@
-### Django-based template for lab/personal webpages
-## (Django, CSS, HTML)
+## Django-based template for lab/personal webpages
+### (Django, CSS, HTML)
 
 To see an example of this template visit the [Heroku deployment of it](https://armenlab.herokuapp.com/).
 This is a simple template specially for academic labs and personal webpages. All the data in the webpage are being maintained and updated through tab-separated (tsv) files, without any need for changes in HTML files.</br>
